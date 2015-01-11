@@ -1,12 +1,4 @@
-docker-rpm-packager
-===================
+fedora-packager
+======================
 
-Create rpm packages for Docker
-
-Branches
---------
-
-* centos
-* fedora
-* rhel
-
+Build packages for fedora with Docker
