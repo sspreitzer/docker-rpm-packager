@@ -1,4 +1,4 @@
-FROM centos:7
+FROM centos:6.6
 
 RUN yum groupinstall -y 'Development Tools' && yum clean -y all
 RUN mkdir -p /rpmbuild/{SPEC,SOURCES,RPMS,SRPMS,BUILD,BUILDROOT}
