@@ -1,7 +1,7 @@
 docker-rpm-packager
 ===================
 
-Create rpm packages for Docker
+Create rpm packages with Docker
 
 Branches
 --------
