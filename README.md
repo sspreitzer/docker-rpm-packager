@@ -1,4 +1,4 @@
-docker-centos-packager
+centos-packager
 ======================
 
 Build packages for centos with Docker
