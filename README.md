@@ -1,12 +1,11 @@
-docker-rpm-packager
-===================
+docker-centos-packager
+======================
 
-Create rpm packages for Docker
+Build packages for centos with Docker
 
-Branches
---------
-
-* centos
-* fedora
-* rhel
+Usage
+-----
+```
+$ docker run --rm -i -t --volume /home/me/rpmbuild:/rpmbuild centos-packager mypackage
+```
 
