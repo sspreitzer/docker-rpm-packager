@@ -1,12 +1,5 @@
-docker-rpm-packager
+rhel-packager
 ===================
 
-Create rpm packages for Docker
-
-Branches
---------
-
-* centos
-* fedora
-* rhel
+Create RedHat Enterprise Linux packages for Docker
 
