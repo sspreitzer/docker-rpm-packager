@@ -1,4 +1,4 @@
-FROM fedora:20
+FROM fedora:21
 
 RUN yum groupinstall -y 'Development Tools' && \
   yum install -y rpm-build && \
